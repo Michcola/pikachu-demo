@@ -40,7 +40,6 @@
  */
 .preview{
     height:100%;
-    border:1px solid green;
     display:flex;
     justify-content:center ;
     align-items:center;
